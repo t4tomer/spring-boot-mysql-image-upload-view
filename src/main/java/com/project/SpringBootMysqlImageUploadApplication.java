@@ -18,7 +18,8 @@ public class SpringBootMysqlImageUploadApplication {
         System.out.println("Main Spring!!!!");
         // String
         // WindowsOpenURL_CD="D:/vs_java_codes/Course_20503_WorkShop/Proj1/OpenUrl.py";
-        String WindowsOpenURL_CD = "D:/vs_java_codes/spring-boot-mysql-image-upload-view/OpenUrl.py";
+        String WindowsOpenURL_CD = "D:/vs_java_codes/add_proucts_and_images/spring-boot-mysql-image-upload-view/OpenUrl.py";
+        // D:/vs_java_codes/add_proucts_and_images/spring-boot-mysql-image-upload-view/OpenUrl.py
         runPythonScript(WindowsOpenURL_CD);
 
     }
